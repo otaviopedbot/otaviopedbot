@@ -4,11 +4,6 @@
     <img align="center" height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otaviopedbot&layout=compact&&theme=nightowl">
 </div>
 <hr>
-<div>
-    <p>💜 Laravel</p>
-    <p>🌱 Atualmente estudando Nest.js e Clean Architecture</p>
-</div>
-<hr>
 <a href="https://www.linkedin.com/in/otaviosbms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 <!--
