@@ -1,7 +1,18 @@
-## Hi there 👋
+
+<div>
+    <img align="center" height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otaviopedbot&show_icons=true&theme=nightowl&include_all_commits=true">
+    <img align="center" height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otaviosbms&layout=compact&&theme=nightowl">
+</div>
+<hr>
+<div>
+    <p>💜 Laravel</p>
+    <p>🌱 Atualmente estudando Nest.js e Clean Architecture</p>
+</div>
+<hr>
+<a href="https://www.linkedin.com/in/otaviosbms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 <!--
-**otaviopedbot/otaviopedbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**otaviosbms/otaviosbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
