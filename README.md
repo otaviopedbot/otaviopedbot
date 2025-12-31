@@ -5,13 +5,13 @@
 <div align="center">
 
   <!-- Awesome GitHub Stats -->
-  ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/seu-username)
+  ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/otaviopedbot&theme=dracula)
 
   <!-- Streak Stats -->
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=seu-username&theme=dark)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=otaviopedbot&theme=dracula)
 
   <!-- Profile Summary -->
-  ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seu-username&theme=dracula)
+  ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaviopedbot&theme=dracula)
 
 </div>
 
