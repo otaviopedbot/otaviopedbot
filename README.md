@@ -1,12 +1,9 @@
----
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=otaviopedbot&theme=dracula)
+<div align="left">
 
 ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaviopedbot&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=otaviopedbot&theme=dracula)
 
 </div>
 
