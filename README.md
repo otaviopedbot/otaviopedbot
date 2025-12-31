@@ -3,14 +3,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otaviopedbot&show_icons=true&theme=nightowl&include_all_commits=true"
-  />
-  <img
-    height="150"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otaviopedbot&layout=compact&theme=nightowl"
-  />
+
+  <!-- Awesome GitHub Stats -->
+  ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/seu-username)
+
+  <!-- Streak Stats -->
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=seu-username&theme=dark)
+
+  <!-- Profile Summary -->
+  ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seu-username&theme=dracula)
+
 </div>
 
 ---
