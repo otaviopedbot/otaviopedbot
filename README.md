@@ -4,14 +4,9 @@
 
 <div align="center">
 
-  <!-- Awesome GitHub Stats -->
-  ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/otaviopedbot&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=otaviopedbot&theme=dracula)
 
-  <!-- Streak Stats -->
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=otaviopedbot&theme=dracula)
-
-  <!-- Profile Summary -->
-  ![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaviopedbot&theme=dracula)
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaviopedbot&theme=dracula)
 
 </div>
 
